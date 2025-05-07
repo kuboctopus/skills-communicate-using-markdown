@@ -18,3 +18,9 @@ JavaScriptの場合
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+## タスクリストを作ってみる
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
