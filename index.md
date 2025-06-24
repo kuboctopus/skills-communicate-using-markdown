@@ -2,6 +2,12 @@
 
 ## fuga 
 
+## タスクリスト
+
+- [ ] GitHub Pages を有効にする
+- [ ] ポートフォリオの概要を作成する
+- [ ] 自己紹介をする
+
 ## piyo
 
 ![Yaktocat の画像](https://octodex.github.com/images/yaktocat.png)
